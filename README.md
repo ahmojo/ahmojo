@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Ahmet</h1>
+<p align="center">
+  Student developer building practical apps and small tools.
+</p>
 
-<!--
-**ahmojo/ahmojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/ahmojo?tab=repositories">Projects</a> •
+  <a href="mailto:yourmail@example.com">Contact</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- Student developer from Switzerland
+- Interested in practical apps, automation, and clean UI
+- Currently improving my portfolio and GitHub projects
+
+## Tech stack
+
+`Python` `C#` `HTML` `CSS` `JavaScript` `SQL`
+
+
+## Currently working on
+
+- Better project documentation
+- Cleaner GitHub repos
+- Portfolio improvements
+
+## GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmojo&show_icons=true&theme=transparent&hide_border=true" />
+</p>
