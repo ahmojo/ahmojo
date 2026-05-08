@@ -34,9 +34,6 @@
 
 ## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmojo&show_icons=true&theme=transparent&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmojo/ahmojo/output/snake.svg" alt="Snake animation" />
