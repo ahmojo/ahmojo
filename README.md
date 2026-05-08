@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ahmojo?tab=repositories">Projects</a> •
-  <a href="mailto:ahmetfarukuilhan@proton.me">Contact</a> •
+  <a href="mailto:ahmetfarukilhan@proton.me">Contact</a> •
   <a href="https://ahmet-portfolio.ch">Portfolio</a>
 </p>
 
