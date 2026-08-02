@@ -1,6 +1,6 @@
 ### Ahmet Faruk Ilhan
 
-IMS student (2nd year) from Aargau, Switzerland - backend-focused, working my way toward a 4th-year software internship.
+IMS student (3rd year) from Aargau, Switzerland - backend-focused, working my way toward a 4th-year software internship.
 
 - Mostly **Python** and **C#**, some **Go**. Comfortable with FastAPI, Docker, Git and SQL.
 - Side interest in **cybersecurity**: understanding how systems work and how to make them harder to break.
