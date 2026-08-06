@@ -4,7 +4,7 @@ IMS student (3rd year) from Aargau, Switzerland - backend-focused, working my wa
 
 - Mostly **Python** and **C#**, some **Go**. Comfortable with FastAPI, Docker, Git and SQL.
 - Side interest in **cybersecurity**: understanding how systems work and how to make them harder to break.
-- I run my own portfolio backend (FastAPI + Docker, self-hosted): **[ahmet-portfolio.ch](https://ahmet-portfolio.ch)**
+- I run my own portfolio backend (FastAPI + Docker, self-hosted): **[ahmet-portfolio.ch](https://ahmet-portfolio.ch/?lang=en)**
 
 **A few things I've built**
 - [codex-claude-transfer](https://github.com/ahmojo/codex-claude-transfer) - local-first CLI to move Codex/Claude Code sessions between machines (Go)
