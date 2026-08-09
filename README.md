@@ -8,7 +8,7 @@ I run my own portfolio backend with FastAPI and Docker: **[ahmet-portfolio.ch](h
 
 ## Technologies
 
-- **Languages:** Python, TypeScript, JavaScript, Go (basic), Rust (basic)
+- **Languages:** Python, TypeScript, JavaScript, Go (learning), Rust (learning)
 - **Web:** HTML, CSS, React, Fastify
 - **Backend & tools:** FastAPI, PostgreSQL, Docker, Playwright, GitHub Actions
 
