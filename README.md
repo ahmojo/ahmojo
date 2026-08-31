@@ -35,3 +35,6 @@ Selected merged pull requests to upstream projects:
 - [go-git/go-git #2248](https://github.com/go-git/go-git/pull/2248) - clarify gitignore pattern and matcher parameters.
 
 Currently learning through Boot.dev and small personal projects.
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/aca43983-7b50-4b32-bdcf-5a94380d9d1f/thumbnail" >
+</p>
