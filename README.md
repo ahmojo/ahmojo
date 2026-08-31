@@ -34,7 +34,7 @@ Selected merged pull requests to upstream projects:
 - [lingui/js-lingui #2621](https://github.com/lingui/js-lingui/pull/2621) - preserve bracketed names in catalog globs.
 - [go-git/go-git #2248](https://github.com/go-git/go-git/pull/2248) - clarify gitignore pattern and matcher parameters.
 
-Currently learning through Boot.dev and small personal projects.[Profile](https://www.boot.dev/u/ahmojo2).
+Currently learning through Boot.dev and small personal projects. [Profile](https://www.boot.dev/u/ahmojo2).
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/aca43983-7b50-4b32-bdcf-5a94380d9d1f/thumbnail" >
 </p>
