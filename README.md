@@ -2,7 +2,7 @@
 
 IMS student (3rd year) from Aargau, Switzerland, working toward a 4th-year software internship.
 
-I mainly work with Python and TypeScript. I have basic knowledge of Go and Rust, and use HTML, CSS, and JavaScript for web interfaces. My main interests are backend development, developer tools, and cybersecurity.
+I mainly work with Python and TypeScript. I have basic knowledge of Golang and use HTML, CSS, and JavaScript for web interfaces. My main interests are backend development, developer tools, and cybersecurity.
 
 I run my own portfolio backend with FastAPI and Docker: **[ahmet-portfolio.ch](https://ahmet-portfolio.ch/?lang=en)**
 
